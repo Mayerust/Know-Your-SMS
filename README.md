@@ -34,4 +34,4 @@ The web app lets users input an SMS message and instantly get a prediction on wh
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
+git clone <Mayerust/Know-Your-SMS>
